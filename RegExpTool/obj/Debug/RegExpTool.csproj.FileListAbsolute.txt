@@ -1,0 +1,8 @@
+C:\Users\iru-oas\Documents\SharpDevelop Projects\RegExpTool\RegExpTool\bin\Debug\RegExpTool.exe.config
+C:\Users\iru-oas\Documents\SharpDevelop Projects\RegExpTool\RegExpTool\bin\Debug\RegExpTool.exe
+C:\Users\iru-oas\Documents\SharpDevelop Projects\RegExpTool\RegExpTool\bin\Debug\RegExpTool.pdb
+C:\Users\iru-oas\Documents\SharpDevelop Projects\RegExpTool\RegExpTool\obj\Debug\RegExpTool.csprojResolveAssemblyReference.cache
+C:\Users\iru-oas\Documents\SharpDevelop Projects\RegExpTool\RegExpTool\obj\Debug\RegExpTool.MainForm.resources
+C:\Users\iru-oas\Documents\SharpDevelop Projects\RegExpTool\RegExpTool\obj\Debug\RegExpTool.csproj.GenerateResource.Cache
+C:\Users\iru-oas\Documents\SharpDevelop Projects\RegExpTool\RegExpTool\obj\Debug\RegExpTool.exe
+C:\Users\iru-oas\Documents\SharpDevelop Projects\RegExpTool\RegExpTool\obj\Debug\RegExpTool.pdb
